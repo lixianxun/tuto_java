@@ -1,4 +1,4 @@
-package com.pplkq.tuto.java.leetcode;
+package com.pplkq.tuto.java.leetcode.array;
 
 public class BestTimeToBuyAndSell {
 
