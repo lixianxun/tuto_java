@@ -1,3 +1,4 @@
+package com.pplkq.tuto.java.lambda;
 
 public class Manager extends Employee {
 	private int bonus;

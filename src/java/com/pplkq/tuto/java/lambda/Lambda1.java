@@ -1,3 +1,4 @@
+package com.pplkq.tuto.java.lambda;
 import java.util.Comparator;
 import java.util.function.Consumer;
 
@@ -30,8 +31,7 @@ public class Lambda1 {
 			
 			
 		// You cannot remove braces and leave 'return'
-		Comparator<Employee> byNameLambda4 =
-			(a, b) -> return a.getName().compareTo(b.getName());
+		//Comparator<Employee> byNameLambda4 =(a, b) -> return a.getName().compareTo(b.getName());
 			
 			
 			

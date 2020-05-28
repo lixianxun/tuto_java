@@ -1,3 +1,4 @@
+package com.pplkq.tuto.java.lambda;
 import java.util.function.Consumer;
 
 public class LambdaImplementation {

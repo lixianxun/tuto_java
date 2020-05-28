@@ -1,3 +1,4 @@
+package com.pplkq.tuto.java.lambda;
 public interface NoLoops {
 
 	// Iterative version, requires constant space

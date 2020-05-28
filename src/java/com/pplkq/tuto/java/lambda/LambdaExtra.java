@@ -1,3 +1,4 @@
+package com.pplkq.tuto.java.lambda;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
 

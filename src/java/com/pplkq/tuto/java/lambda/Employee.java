@@ -1,3 +1,4 @@
+package com.pplkq.tuto.java.lambda;
 import java.util.Random;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;

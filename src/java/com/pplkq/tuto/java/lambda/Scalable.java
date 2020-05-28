@@ -1,3 +1,4 @@
+package com.pplkq.tuto.java.lambda;
 public interface Scalable {
 	
 	// implicitly public abstract
