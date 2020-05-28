@@ -16,8 +16,8 @@ public class RemoveDuplicatsFromSortedArray {
 		if(null == arr || arr.length<1) {
 			return -1;
 		}
-		int i=0; 
-		for(int j=1; j<arr.length; j++) {
+		int i=0;                             //pointer 1
+		for(int j=1; j<arr.length; j++) {    //pointer 2
 			if(arr[i] != arr[j]) {
 				arr[++i] = arr[j];
 			}
